@@ -1,0 +1,18 @@
+{
+    "name": "vitormarcelino/challenge-sanar",
+    "description": "Challenge Sanar",
+    "authors": [
+        {
+            "name": "Vitor Marcelino",
+            "email": "vitormarcelino93@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "VitorMarcelino\\ChallengeSanar\\": "src/"
+        }
+    }
+}
